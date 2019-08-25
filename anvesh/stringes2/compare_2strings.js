@@ -1,6 +1,5 @@
-var a="hello how are you";
-var b="hello how are you";
-
+var a="hello how are you where are you from";
+var b="hello how are you how my i help you";
 if(a.length==b.length)
 {
     for(let index=0;index<a.length;index++)
