@@ -1,5 +1,5 @@
 /**program to print repeat char in a string */
-var i="anvesh hello";
+var i="hello anvesh how are you ";
 var count=1;
 
 /**sintax used to count repeating char 
