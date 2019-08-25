@@ -1,4 +1,4 @@
-var a="hello how are you";
+var a="hello how are you where are you from";
 var b="me";
 var c=a.search(b);
 if(c!=-1)
